@@ -1,5 +1,5 @@
 '''
-SI 505/206 W18 homework 9: Basic SQL statements
+HW09: Basic SQL statements
 '''
 
 import sqlite3 as sqlite
